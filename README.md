@@ -1,5 +1,6 @@
-# ICL
-## Learning invariant representations using Inverse Contrastive Loss
+# Learning invariant representations using Inverse Contrastive Loss
+
+## Abstract
 Learning invariant representations is a critical first step in a number of machine learning tasks. A common approach
 corresponds to the so-called information bottleneck principle
 in which an application dependent function of mutual information is carefully chosen and optimized. Unfortunately, in
@@ -15,5 +16,13 @@ of convex functions of the given distance metric. Our experimental results indic
 ICL achieve significantly better invariance to the extraneous
 variable for a fixed desired level of accuracy. In a variety of
 experimental settings, we show applicability of ICL for learning invariant representations for both continuous and discrete
-extraneous variables. The project page with code is available
-at https://github.com/adityakumarakash/ICL
+extraneous variables. 
+
+## Paper
+The full paper is in the main directory with the name `paper_AAAI2021.pdf`
+
+## Project particulars
+The slides and poster are available in the main directory with the titles `slides_AAAI2021.pdf`and `poster_AAAI2021.pdf`. 
+
+
+
