@@ -21,6 +21,9 @@ extraneous variables.
 ## Paper
 The full paper is in the main directory with the name `paper_AAAI2021.pdf`
 
+## Code
+Available in the directory `code/`
+
 ## Project particulars
 The slides and poster are available in the main directory with the titles `slides_AAAI2021.pdf`and `poster_AAAI2021.pdf`. 
 
